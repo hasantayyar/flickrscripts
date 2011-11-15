@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           flickrAllowSaveAs
+// @name           flickrDarkerBackground
 // @description     darker background good for focusing on photo
 // @copyright      2011, Hasan Tayyar BEŞİK (http://hasantayyar.com)
 // @license        LGPL 
